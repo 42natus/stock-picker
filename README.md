@@ -19,9 +19,9 @@ Otherwise, you can just paste the contents into any Ruby REPL online.
 
 ### Screenshot
 
-Here's a usage example where the `stock_picker` method was called with:
+Here's a usage example where the `#stock_picker` method was called with:
 
-```
+```ruby
 some_days = [17,3,6,9,15,8,6,1,10]
 
 result = stock_picker(some_days)
